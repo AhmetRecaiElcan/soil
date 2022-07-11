@@ -1,0 +1,28 @@
+{
+    "language" : "Türkçe",
+    "find" : "Daha Fazla Bilgi",
+    "@language" :{
+        "description":"Geçerli Dil"
+    },
+    "home":"Ana Sayfa",
+    "find" : "Daha Fazla Bilgi",
+    "n1" : "Bitki Yetiştiriciliği hakkında bilgi almak için tıklayınız",
+    "n2" : "Tübitak araştırma kurumuyla ilgili bilgi almak için tıklayınız",
+    "n3" : "mmlik yağış durumları ve 14 günlük hava durumu ",
+    "system" : "Sistem",
+    "asystem" : "Yeni sistem ekle",
+    "wm" : "Toprak İzleme ve NPK Kontrol Sistemi",
+    "nL" : "Giriş yap",
+    "nS" : "Kayıt ol",
+    "analytics" : "Grafikler",
+    "noti" : "Bilgilendirme",
+    "messages" : "Ürünler",
+    "qA" : "Ürünler",
+    "fq" : "Bilgiler",
+    "lan" : "Diller",
+    "sout" : "Çıkış Yap",
+    "setting" : "Ayarlar",
+    "@home": {
+        "find":"Daha Fazla Bilgi "
+    }
+}

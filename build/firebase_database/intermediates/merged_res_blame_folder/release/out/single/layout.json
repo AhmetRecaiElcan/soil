@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_database\\intermediates\\merged_res\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\93590522e9cef2675a4f6a6e32dbed4b\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_database\\intermediates\\merged_res\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\93590522e9cef2675a4f6a6e32dbed4b\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_database\\intermediates\\merged_res\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\93590522e9cef2675a4f6a6e32dbed4b\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_database\\intermediates\\merged_res\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\93590522e9cef2675a4f6a6e32dbed4b\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_database\\intermediates\\merged_res\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\93590522e9cef2675a4f6a6e32dbed4b\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_database\\intermediates\\merged_res\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\93590522e9cef2675a4f6a6e32dbed4b\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    }
+]

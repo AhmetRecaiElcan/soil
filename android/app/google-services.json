@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "965633583197",
+    "firebase_url": "https://soil-de181-default-rtdb.firebaseio.com",
+    "project_id": "soil-de181",
+    "storage_bucket": "soil-de181.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965633583197:android:00239e736c8f524d0d45b4",
+        "android_client_info": {
+          "package_name": "com.example.soil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965633583197-6b2kljiigl7timrmgtf25g5nidk9gk8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jzg4SSW9ZM2FXXKWFEmtwTZq1N3ObBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965633583197-6b2kljiigl7timrmgtf25g5nidk9gk8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

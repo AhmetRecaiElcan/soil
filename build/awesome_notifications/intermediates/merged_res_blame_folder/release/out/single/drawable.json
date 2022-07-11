@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\awesome_notifications\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\1d881eede6d068ec15a8b94b98a8f634\\transformed\\core-1.7.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\awesome_notifications\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\1d881eede6d068ec15a8b94b98a8f634\\transformed\\core-1.7.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\awesome_notifications\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\1d881eede6d068ec15a8b94b98a8f634\\transformed\\core-1.7.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\awesome_notifications\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\1d881eede6d068ec15a8b94b98a8f634\\transformed\\core-1.7.0\\res\\drawable\\notification_icon_background.xml"
+    }
+]

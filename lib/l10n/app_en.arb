@@ -1,0 +1,28 @@
+{
+    "language" : "English",
+    "find" : "More İnformation",
+    "@language" :{
+        "description":"Current language"
+    },
+    "home":"home",
+    "find" : "More İnformation",
+    "n1" : "Click to get information about Plant Cultivation",
+    "n2" : "Click here to get information about Tübitak research institution",
+    "n3" : "mm precipitation and 14-day weather forecast",
+    "system" : "System",
+    "asystem" : "Add new system",
+    "wm" : "Soil Monitoring and NPK Control System",
+    "nL" : "Login",
+    "nS" : "Sıgn",
+    "analytics" : "Analytcs",
+    "noti" : "Notification",
+    "messages" : "Products",
+    "qA" : "Products",
+    "fq" : "İnformation",
+    "lan" : "Language",
+    "sout" : "Log Out",
+    "setting" : "Settings",
+    "@home": {
+        "find":"More İnformation "
+    }
+}

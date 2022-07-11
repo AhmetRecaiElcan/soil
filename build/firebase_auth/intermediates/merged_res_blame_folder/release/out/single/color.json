@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_auth\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\725f4b599128468ecd1856e9bc7878ab\\transformed\\jetified-play-services-base-17.1.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_auth\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\725f4b599128468ecd1856e9bc7878ab\\transformed\\jetified-play-services-base-17.1.0\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_auth\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\725f4b599128468ecd1856e9bc7878ab\\transformed\\jetified-play-services-base-17.1.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]

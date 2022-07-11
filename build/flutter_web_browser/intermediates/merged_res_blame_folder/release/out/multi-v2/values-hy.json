@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\flutter_web_browser\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hy\\values-hy.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\05706b95e723b4b2fe3d4733ff1d4197\\transformed\\browser-1.4.0\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,159,262,373",
+                        "endColumns": "103,102,110,102",
+                        "endOffsets": "154,257,368,471"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\93590522e9cef2675a4f6a6e32dbed4b\\transformed\\core-1.6.0\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "476",
+                        "endColumns": "100",
+                        "endOffsets": "572"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\flutter_web_browser\\intermediates\\merged_res\\release\\values-hy\\values-hy.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\05706b95e723b4b2fe3d4733ff1d4197\\transformed\\browser-1.4.0\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,159,262,373",
+                        "endColumns": "103,102,110,102",
+                        "endOffsets": "154,257,368,471"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\93590522e9cef2675a4f6a6e32dbed4b\\transformed\\core-1.6.0\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "476",
+                        "endColumns": "100",
+                        "endOffsets": "572"
+                    }
+                }
+            ]
+        }
+    ]
+}

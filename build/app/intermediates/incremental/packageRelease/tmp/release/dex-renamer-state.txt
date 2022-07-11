@@ -1,0 +1,4 @@
+#Sun Jul 10 13:51:55 TRT 2022
+base.0=C\:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

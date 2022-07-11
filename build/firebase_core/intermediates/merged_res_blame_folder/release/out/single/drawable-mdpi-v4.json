@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_core\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\93590522e9cef2675a4f6a6e32dbed4b\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_core\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\93590522e9cef2675a4f6a6e32dbed4b\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_core\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\93590522e9cef2675a4f6a6e32dbed4b\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_core\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\93590522e9cef2675a4f6a6e32dbed4b\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_core\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\93590522e9cef2675a4f6a6e32dbed4b\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]

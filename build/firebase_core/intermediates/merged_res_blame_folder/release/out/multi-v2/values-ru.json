@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ru\\values-ru.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\93590522e9cef2675a4f6a6e32dbed4b\\transformed\\core-1.6.0\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "321",
+                        "endColumns": "100",
+                        "endOffsets": "417"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\233900458a2e10effcd6d8b0a51a0067\\transformed\\jetified-play-services-basement-17.0.0\\res\\values-ru\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "215",
+                        "endOffsets": "462"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "215",
+                        "endOffsets": "316"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ahmet\\Desktop\\MoblieApp\\Soil_NPK_App\\build\\firebase_core\\intermediates\\merged_res\\release\\values-ru\\values-ru.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\93590522e9cef2675a4f6a6e32dbed4b\\transformed\\core-1.6.0\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "321",
+                        "endColumns": "100",
+                        "endOffsets": "417"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ahmet\\.gradle\\caches\\transforms-3\\233900458a2e10effcd6d8b0a51a0067\\transformed\\jetified-play-services-basement-17.0.0\\res\\values-ru\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "215",
+                        "endOffsets": "462"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "215",
+                        "endOffsets": "316"
+                    }
+                }
+            ]
+        }
+    ]
+}
